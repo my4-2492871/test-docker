@@ -5,3 +5,4 @@ RUN apk update && apk upgrade && apk add bash
 COPY . ./app
 ADD counter.txt
 RUN ["mkdir", "/a_directory"]
+CMD ["python", "./my_script.py"]
