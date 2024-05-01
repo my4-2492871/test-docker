@@ -11,3 +11,4 @@ __pycache__/
 # Distribution / packaging
 develop-eggs/
 downloads/
+eggs/
