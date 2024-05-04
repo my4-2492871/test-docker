@@ -13,3 +13,4 @@ develop-eggs/
 downloads/
 eggs/
 .eggs/
+lib/
