@@ -19,3 +19,4 @@ parts/
 sdist/
 var/
 wheels/
+share/python-wheels/
