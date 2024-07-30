@@ -67,3 +67,4 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# Sphinx documentation
