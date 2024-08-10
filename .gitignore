@@ -74,3 +74,4 @@ docs/_build/
 .pybuilder/
 target/
 
+# Jupyter Notebook
