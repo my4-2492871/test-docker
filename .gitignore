@@ -116,3 +116,4 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
